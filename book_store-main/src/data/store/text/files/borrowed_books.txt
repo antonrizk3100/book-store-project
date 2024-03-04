@@ -1,0 +1,4 @@
+Benny@email.com,a wizard of earthsea,5.9
+Roman@email.com,who fears death,4.5
+anton@email.com,the devil in the white city,4.5
+barsa@email.com,the red tent,6.0
